@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.4",
-    "versionCode":  14,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.4/ultra_bar-1.11.4+14.apk",
-    "sha256":  "a8f654d30fa3d948f0d29c2358751f290a75aec3dda7e627b72fa71833df5280",
-    "notes":  "Fix default update URL and order server port",
-    "publishedAt":  "2026-06-01T16:35:23+03:00"
+    "versionName":  "1.11.5",
+    "versionCode":  15,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.5/ultra_bar-1.11.5+15.apk",
+    "sha256":  "3a0a3b0e4018d51cc8413f181f181fa8d961a61123246523ca32c2c8b9789375",
+    "notes":  "",
+    "publishedAt":  "2026-06-06T17:27:31+03:00"
 }
