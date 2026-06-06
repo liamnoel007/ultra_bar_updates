@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.5",
-    "versionCode":  15,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.5/ultra_bar-1.11.5+15.apk",
-    "sha256":  "3a0a3b0e4018d51cc8413f181f181fa8d961a61123246523ca32c2c8b9789375",
-    "notes":  "",
-    "publishedAt":  "2026-06-06T17:27:31+03:00"
+    "versionName":  "1.11.6",
+    "versionCode":  16,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.6/ultra_bar-1.11.6+16.apk",
+    "sha256":  "6686611806da27951527a1779fecc047862f3ce3dcccd4355e017b3507de1bec",
+    "notes":  "Add stock decrease button and auto-add incoming stock",
+    "publishedAt":  "2026-06-06T17:46:22+03:00"
 }
