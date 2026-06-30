@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.7",
-    "versionCode":  17,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.7/ultra_bar-1.11.7+17.apk",
-    "sha256":  "60b2be32430fc363c8dd73afb20e76bbc3889b18363ca0da1a3ffa1f932f1f43",
-    "notes":  "Add order poll interval setting and improve host/product screens",
-    "publishedAt":  "2026-06-08T11:08:10+03:00"
+    "versionName":  "1.11.8",
+    "versionCode":  18,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.8/ultra_bar-1.11.8+18.apk",
+    "sha256":  "6b874628dce56c870b23596e65f0a82e40bf5ea1257cc13af011d4e085161585",
+    "notes":  "Добавлена кнопка Выход клиента для разлогинивания, поддержка ограниченных администраторов",
+    "publishedAt":  "2026-07-01T01:45:00+03:00"
 }
