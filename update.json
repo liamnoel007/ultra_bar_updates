@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.9",
-    "versionCode":  19,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.9/ultra_bar-1.11.9+19.apk",
-"sha256":  "52c32d77f2352cf82b4ace7e9e8a8b812a5fa06dc1efdccb0f70d62e1708085e",
-    "notes":  "Испправлен статус подключения (динамическое обновление ON/OFF/ERR), бейдж кликабельный для Wi-Fi, заменён WAIT на ...",
-    "publishedAt":  "2026-07-01T10:00:00+03:00"
+    "versionName":  "1.11.10",
+    "versionCode":  20,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.10/ultra_bar-1.11.10+20.apk",
+    "sha256":  "793691D142AE373A8C0931562C6A545FC359CD20DF14CC292B6E9B7A5B516E57",
+    "notes":  "Два чата для ultra, исправлен ERR статус, улучшена диагностика Wi-Fi",
+    "publishedAt":  "2026-07-01T11:40:00+03:00"
 }
