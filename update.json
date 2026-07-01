@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.10",
-    "versionCode":  20,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.10/ultra_bar-1.11.10+20.apk",
-    "sha256":  "793691D142AE373A8C0931562C6A545FC359CD20DF14CC292B6E9B7A5B516E57",
-    "notes":  "Два чата для ultra, исправлен ERR статус, улучшена диагностика Wi-Fi",
-    "publishedAt":  "2026-07-01T11:40:00+03:00"
+    "versionName":  "1.11.11",
+    "versionCode":  21,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.11/ultra_bar-1.11.11+21.apk",
+    "sha256":  "54DCD2A06814544AB356B85C5684B9F694744090E419153D0C34C0BDE8194F7E",
+    "notes":  "Исправлен Wi-Fi: добавлено разрешение NEARBY_WIFI_DEVICES для Android 12+, улучшено логирование",
+    "publishedAt":  "2026-07-01T17:19:00+03:00"
 }
