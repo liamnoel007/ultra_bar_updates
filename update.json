@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.11",
-    "versionCode":  21,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.11/ultra_bar-1.11.11+21.apk",
-    "sha256":  "54DCD2A06814544AB356B85C5684B9F694744090E419153D0C34C0BDE8194F7E",
-    "notes":  "Исправлен Wi-Fi: добавлено разрешение NEARBY_WIFI_DEVICES для Android 12+, улучшено логирование",
-    "publishedAt":  "2026-07-01T17:19:00+03:00"
+    "versionName":  "1.11.12",
+    "versionCode":  22,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.12/ultra_bar-1.11.12+22.apk",
+    "sha256":  "229a6ba362c31c9cb207b9b8f9503462c4ea84728d6c3ee2593b81ccf5dc27d6",
+    "notes":  "Правила работы оператора (кнопка на экране заказов); задача уборки залов — пуш и карточка при накоплении освободившихся хостов, пороги настраиваются в настройках",
+    "publishedAt":  "2026-07-13T14:40:00+03:00"
 }
