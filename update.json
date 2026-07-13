@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.14",
-    "versionCode":  24,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.14/ultra_bar-1.11.14+24.apk",
-    "sha256":  "fb86bb18fd9d11e3c55180659b7990aeff3c46a44a7c2aa39f84e5fbef012a06",
-    "notes":  "Уборка: пуш-уведомление теперь снимается сразу при нажатии «Убрано»",
-    "publishedAt":  "2026-07-13T15:44:00+03:00"
+    "versionName":  "1.11.15",
+    "versionCode":  25,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.15/ultra_bar-1.11.15+25.apk",
+    "sha256":  "c0be2960e66c85fa8dfba1e61fdf5fb5b0949db28d6dc78f212733cb6af3538b",
+    "notes":  "Карточка уборки: убрано поле «Освободилось хостов»",
+    "publishedAt":  "2026-07-13T17:48:00+03:00"
 }
