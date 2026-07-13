@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.12",
-    "versionCode":  22,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.12/ultra_bar-1.11.12+22.apk",
-    "sha256":  "229a6ba362c31c9cb207b9b8f9503462c4ea84728d6c3ee2593b81ccf5dc27d6",
-    "notes":  "Правила работы оператора (кнопка на экране заказов); задача уборки залов — пуш и карточка при накоплении освободившихся хостов, пороги настраиваются в настройках",
-    "publishedAt":  "2026-07-13T14:40:00+03:00"
+    "versionName":  "1.11.13",
+    "versionCode":  23,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.13/ultra_bar-1.11.13+23.apk",
+    "sha256":  "1257d54f5f3278d46cb1d96fd625af1f9ff768ca19e13ca617e73cc4a3740b7f",
+    "notes":  "Исправлено: пуш-уведомление теперь гаснет при обработке карточки (уборка, заказы, вызовы); уборка использует отдельное уведомление",
+    "publishedAt":  "2026-07-13T15:28:00+03:00"
 }
