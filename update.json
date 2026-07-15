@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.16",
-    "versionCode":  26,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.16/ultra_bar-1.11.16+26.apk",
-    "sha256":  "7dafd60451a97a4133a0af6f675f35fd126752760c2e72922d9dcfb2d8e0538c",
-    "notes":  "Уборка: пуш-уведомление автоматически гаснет, если карточек уборки не осталось (самоисцеление на таймере)",
-    "publishedAt":  "2026-07-13T18:54:00+03:00"
+    "versionName":  "1.11.17",
+    "versionCode":  27,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.17/ultra_bar-1.11.17+27.apk",
+    "sha256":  "3f076f791785db8a9afb3087f0b157315039d5ffc446253cc45e47d97aba584c",
+    "notes":  "Уборка: чистка «зависших» уведомлений при запуске приложения (в т.ч. пуш уборки со старых версий)",
+    "publishedAt":  "2026-07-15T11:48:00+03:00"
 }
