@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.11.18",
-    "versionCode":  28,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.18/ultra_bar-1.11.18+28.apk",
-    "sha256":  "309e74028c2293b43c2117724b227ac340513e512fa16d0d15dad995f1eb8429",
-    "notes":  "Уборка: надёжное гашение пуша через cancelAll на устройствах, где cancel по id не срабатывает (MIUI/HyperOS). Версия приложения показана в шапке экрана заказов",
-    "publishedAt":  "2026-07-15T17:07:00+03:00"
+    "versionName":  "1.11.19",
+    "versionCode":  29,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.11.19/ultra_bar-1.11.19+29.apk",
+    "sha256":  "982e9979ed7a92424371a0d8129fc35f5f1e5b640c22661887e0397658537bae",
+    "notes":  "Карточка заказа показывает все товары (без скрытой прокрутки); уборка повторяет пуш и вибрацию каждый цикл, пока не нажата «Убрано», и корректно гаснет",
+    "publishedAt":  "2026-07-16T16:17:00+03:00"
 }
