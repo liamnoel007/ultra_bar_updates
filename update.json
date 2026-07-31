@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.12.0",
-    "versionCode":  30,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.12.0/ultra_bar-1.12.0+30.apk",
-    "sha256":  "5daa635bbac9fdfdd4960950285778eb25f3ac645e5a860915d2b4191224d8cd",
-    "notes":  "Отслеживание заполнения холодильников: если товара меньше заданного % — карточка «Пополнить холодильник» + пуш и мелодия. Настройки интервала, общего кол-ва и % по каждому залу. Барменам не приходит.",
-    "publishedAt":  "2026-07-22T11:11:29+03:00"
+    "versionName":  "1.13.0",
+    "versionCode":  31,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.13.0/ultra_bar-1.13.0+31.apk",
+    "sha256":  "62e68a7929eaa6ca2902e20b5d8676cf0fbc020872b7b7c9db200c4f01461696",
+    "notes":  "Подтверждение уборки залов через сканирование QR клиента Гизмо",
+    "publishedAt":  "2026-07-31T11:41:19+03:00"
 }
