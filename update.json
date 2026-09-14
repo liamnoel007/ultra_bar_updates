@@ -1,8 +1,8 @@
 {
-    "versionName":  "1.15.1",
-    "versionCode":  38,
-    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.15.1/ultra_bar-1.15.1+38.apk",
-    "sha256":  "9c965508e98b91905c8e9f9a84ed14ff201b6db3b10eed1519afd4fced711f21",
-    "notes":  "Проверка микрофонов теперь включена сразу и настроена — адрес сервера и доступ уже прописаны, вводить ничего не нужно. В настройках тумблер работает наоборот: им проверку выключают, если она не нужна.",
-    "publishedAt":  "2026-09-14T12:00:00+03:00"
+    "versionName":  "1.15.2",
+    "versionCode":  39,
+    "apkUrl":  "https://github.com/liamnoel007/ultra_bar_updates/releases/download/v1.15.2/ultra_bar-1.15.2+39.apk",
+    "sha256":  "626ede6a2aa40400ee9fa02b5d216337f72fd115a83d33a2bf199da5bef5dd49",
+    "notes":  "Исправлен адрес сервера проверки микрофонов — в прошлой версии был указан неверный. Ничего настраивать не нужно, верный адрес подставится сам при обновлении.",
+    "publishedAt":  "2026-09-14T15:00:00+03:00"
 }
